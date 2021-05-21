@@ -7,7 +7,7 @@ export default function Home() {
         <title>Amazon 2.0</title>
       </Head>
 
-      {/* ---- TO BEGIN, delete this section and GET CODING!!! ---- */}
+      {/* ---- TO BEGIN, delete this section and GET CODING!!! ---- bbb*/}
       <center className="grid place-items-center mt-10">
         <h1 className="text-5xl">Lets build Amazon 2.0</h1>
         <h2>This is your starter template!</h2>
