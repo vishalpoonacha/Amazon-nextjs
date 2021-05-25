@@ -35,6 +35,7 @@ function CheckoutProduct({
     //remove items from redux
     dispatch(removeFromBasket({ id }));
   };
+
   return (
     <div className="grid grid-cols-5">
       <Image src={image} height={200} width={200} objectFit="contain" />
